@@ -10,4 +10,4 @@ And so I wrote one. It catches all the links to Bento that were there when I wro
 
 ## Installation
 
-If you're using Google Chrome, you can just go to `[chrome://extensions/](chrome://extensions/)` and drag and drop the `bentoBlocker.user.js` there. You can probably also use the [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de)/[Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/) plugins for your browser of choice.
+If you're using Google Chrome, you can just go to `chrome://extensions/` and drag and drop the `bentoBlocker.user.js` there. You can probably also use the [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de)/[Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/) plugins for your browser of choice.
